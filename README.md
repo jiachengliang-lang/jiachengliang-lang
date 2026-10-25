@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Electrical Engineering & Computer Sciences @ UC Berkeley · May 2028
+- 🎓 Electrical and Computer Engineering @ UC Berkeley · May 2028
 - 💼 Software Engineering Intern @ TerraNova Bio — <!-- one line: what you built + tech -->
 - 🔬 Research Intern @ [Voila](https://guanghanmeng.com) — backend & ML <!-- one line: what you built + tech -->
 - 🧪 Research Intern @ [Chien Lab](https://chienlab-bioic.github.io) <!-- one line: what you worked on -->
@@ -34,6 +34,13 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+**Data / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
 **Cloud, DevOps & Observability**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -50,7 +57,7 @@
 ### 🔐 [vault](https://github.com/jiachengliang-lang/vault)
 Distributed commerce backend of 5 **Go** services using **Kafka** and **PostgreSQL**, with 0 double charges and 0 lost orders across 100,000+ checkouts through crashes and outages. Deployed on **AWS** with CDK and CI/CD, serving 400 checkouts/s at 166 ms p99 with 0 errors.
 
-### 🥊 [yellow-brawl](https://github.com/jiachengliang-lang/yellow-brawl) · [Play it live](https://yellow-brawl.onrender.com)
+### 🥊 [yellow-brawl](https://github.com/jiachengliang-lang/yellow-brawl) · [Play it live](YOUR_RENDER_URL)
 Real-time multiplayer fighting game built from scratch in vanilla **JavaScript** (~6,300 lines) with a fixed 60 Hz simulation loop. Online play runs on a zero-dependency **WebSocket** server written in **Node.js**, streaming ~1 KB game-state snapshots at 60 Hz.
 
 ---
