@@ -57,7 +57,7 @@
 ### 🔐 [vault](https://github.com/jiachengliang-lang/vault)
 Distributed commerce backend of 5 **Go** services using **Kafka** and **PostgreSQL**, with 0 double charges and 0 lost orders across 100,000+ checkouts through crashes and outages. Deployed on **AWS** with CDK and CI/CD, serving 400 checkouts/s at 166 ms p99 with 0 errors.
 
-### 🥊 [yellow-brawl](https://github.com/jiachengliang-lang/yellow-brawl) · [Play it live](YOUR_RENDER_URL)
+### 🥊 [yellow-brawl](https://github.com/jiachengliang-lang/yellow-brawl) · [Play it live](https://yellow-brawl.onrender.com)
 Real-time multiplayer fighting game built from scratch in vanilla **JavaScript** (~6,300 lines) with a fixed 60 Hz simulation loop. Online play runs on a zero-dependency **WebSocket** server written in **Node.js**, streaming ~1 KB game-state snapshots at 60 Hz.
 
 ---
