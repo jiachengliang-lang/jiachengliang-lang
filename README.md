@@ -10,7 +10,7 @@
 - 🤖 Undergraduate Researcher @ [BAIR · Berkeley Speech Group](https://people.eecs.berkeley.edu/~gopala/)
 - 💼 Software Engineering Intern @ TerraNova Bio — ML soft sensors, physics simulation, and embedded deployment
 - 🔬 Software Engineering Intern @ [Voila](https://guanghanmeng.com) — backend & ML <!-- one line: what you built + tech -->
-- 🧪 Research Intern @ [Chien Lab](https://chienlab-bioic.github.io) — PCB design, circuit design, and chip etching
+- 🧪 Undergraduate Researcher @ [Chien Lab](https://chienlab-bioic.github.io) — PCB design, circuit design, and chip etching
 - 👨‍🏫 Teaching Intern @ UC Berkeley CS 61C (Machine Structures)
 - 🌱 Interested in distributed systems, reliable payments infrastructure, and applied ML
 
