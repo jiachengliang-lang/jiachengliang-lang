@@ -11,7 +11,7 @@
 - 💼 Software Engineering Intern @ TerraNova Bio — ML soft sensors, physics simulation, and embedded deployment
 - 🔬 Software Engineering Intern @ [Voila](https://guanghanmeng.com) — backend & ML <!-- one line: what you built + tech -->
 - 🧪 Undergraduate Researcher @ [Chien Lab](https://chienlab-bioic.github.io) — PCB design, circuit design, and chip etching
-- 👨‍🏫 Teaching Intern @ UC Berkeley CS 61C (Machine Structures)
+- 👨‍🏫 Teaching Intern @ UC Berkeley CS 61C
 - 🌱 Interested in software development, computer vision and AI/ML
 
 ---
