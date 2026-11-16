@@ -8,7 +8,7 @@
 
 - 🎓 Electrical and Computer Engineering @ UC Berkeley · May 2028
 - 🤖 Undergraduate Researcher @ [BAIR · Berkeley Speech Group](https://people.eecs.berkeley.edu/~gopala/)
-- 💼 Software Engineering Intern @ TerraNova Bio — ML soft sensors, physics simulation, and embedded deployment
+- 💼 Software Engineering Intern @ [TerraNova Bio](https://www.terranovabio.tech/) — ML soft sensors, physics simulation, and embedded deployment
 - 🔬 Software Engineering Intern @ [Voila](https://guanghanmeng.com) — backend & ML <!-- one line: what you built + tech -->
 - 🧪 Undergraduate Researcher @ [Chien Lab](https://chienlab-bioic.github.io) — PCB design, circuit design, and chip etching
 - 👨‍🏫 Teaching Intern @ UC Berkeley CS 61C
