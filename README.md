@@ -12,7 +12,7 @@
 - 🔬 Software Engineering Intern @ [Voila](https://guanghanmeng.com) — backend & ML <!-- one line: what you built + tech -->
 - 🧪 Undergraduate Researcher @ [Chien Lab](https://chienlab-bioic.github.io) — PCB design, circuit design, and chip etching
 - 👨‍🏫 Teaching Intern @ UC Berkeley CS 61C (Machine Structures)
-- 🌱 Interested in distributed systems, reliable payments infrastructure, and applied ML
+- 🌱 Interested in software development, computer vision and AI/ML
 
 ---
 
